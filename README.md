@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with `create-next-
 
 ```
 .
-├── app/ or pages/       # Application routes
+├── app/                 # Application routes
 ├── public/              # Static assets
 ├── styles/              # CSS or Tailwind files
 ├── components/          # Reusable components
@@ -69,15 +69,7 @@ npm start
 
 This will start a production server at `localhost:3000`.
 
-## 🧪 Optional: Environment Variables
 
-If your project uses `.env` files (e.g. for API keys), create a `.env.local` file:
-
-```bash
-cp .env.example .env.local
-```
-
-Then edit `.env.local` with your own values.
 
 ## ⚙️ Scripts
 
